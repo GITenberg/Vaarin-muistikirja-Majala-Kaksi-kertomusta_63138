@@ -1,5 +1,5 @@
 _repo: Vaarin-muistikirja-Majala-Kaksi-kertomusta_63138
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pakkala, Hanna
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '45341'
     url: http://www.gutenberg.org/2009/agents/45341
     wikipedia: https://fi.wikipedia.org/wiki/Hanna_Pakkala
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heimburg, W.
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '31372'
     url: http://www.gutenberg.org/2009/agents/31372
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63138#Vaarin-muistikirja-Majala-Kaksi-kertomusta
 gutenberg_issued: '2020-09-06'
 gutenberg_type: Text
 identifiers:
