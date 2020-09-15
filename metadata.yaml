@@ -1,0 +1,36 @@
+_repo: Vaarin-muistikirja-Majala-Kaksi-kertomusta_63138
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Pakkala, Hanna
+    alias: Kuosmanen, Hanna
+    birthdate: 1864
+    deathdate: 1950
+    gutenberg_agent_id: '45341'
+    url: http://www.gutenberg.org/2009/agents/45341
+    wikipedia: https://fi.wikipedia.org/wiki/Hanna_Pakkala
+creator:
+  author:
+    agent_name: Heimburg, W.
+    aliases:
+    - Behrens, Bertha
+    - Heimburg, Wilhelmina
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '31372'
+    url: http://www.gutenberg.org/2009/agents/31372
+description: ''
+gutenberg_issued: '2020-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63138'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into Finnish'
+- GITenberg
+title: 'Vaarin muistikirja; Majala: Kaksi kertomusta'
+url: http://www.gutenberg.org/ebooks/63138
